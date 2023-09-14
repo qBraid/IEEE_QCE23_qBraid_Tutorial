@@ -1,0 +1,1 @@
+Attendees will learn how to use qBraid’s platform to accelerate quantum research and development by accessing many tools and hardware providers in one location. Attendees will also be taken through a short tutorial on variational quantum algorithms (VQAs) that demonstrates qBraid’s capabilities while teaching about VQAs. 
