@@ -8,9 +8,14 @@ Attendees will learn how to use qBraid’s platform to accelerate quantum resear
 Session 1:
 - 10:00 - 10:15: Getting everyone setup and logged in
 - 10:15 - 10:35: Slideshow overview of qBraid
-- 10:35 - 10:55: Welcome nb
-- 10:55 - 11:10: Advanced Features nb
-- 11:10 - 11:30: Hands-on exercises
+- 10:35 - 10:50: Live walkthrough of lab
+- 10:50 - 11:10: Welcome nb
+- 11:10 - 11:30: Advanced Features nb
 
 Session 2:
-- 
+- 1:00 - 1:10: Recap
+- 1:10 - 1:25: Hands-on Exercises 1
+- 1:25 - 1:45: Intro to VQA nb
+- 1:45 - 2:05: Overview to Comb. Opt. nb
+- 2:05 - 2:30: Intro to QAOA
+- (optional): Intro to VQE
