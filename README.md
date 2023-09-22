@@ -18,4 +18,4 @@ Session 2:
 - 1:25 - 1:45: Intro to VQA nb
 - 1:45 - 2:05: Overview to Comb. Opt. nb
 - 2:05 - 2:30: Intro to QAOA
-- (optional): Intro to VQE
+*Use any extra time to explore qBraid Lab at your own pace and ask questions!
